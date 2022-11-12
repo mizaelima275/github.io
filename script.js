@@ -16,13 +16,13 @@ $(document).ready(function() {
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Programador", "Desenvolvedor", "Back-end", "Front-end"],
+        strings: ["Programador", "Back-end", "Front-end"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Programador", "Desenvolvedor", "Back-end", "Front-end"],
+        strings: ["Programador", "Back-end", "Front-end"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
